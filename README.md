@@ -1,4 +1,4 @@
-# Do you know Me? - CLI Quiz
+# Do you know INDIA? - CLI Quiz
 ### A simple CLI quiz about INDIA 😁.
 <br/>
 
